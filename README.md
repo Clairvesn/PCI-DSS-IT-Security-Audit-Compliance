@@ -37,6 +37,6 @@ This project documents an IT security and compliance audit conducted for a mock 
 - CIS Critical Security Controls
 - draw.io (network diagramming)
 
-Please take a look at the pdf for more details.
+Please take a look at the document for more details.
 
 
